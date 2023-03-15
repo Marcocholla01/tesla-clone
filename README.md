@@ -3,9 +3,9 @@
 
 
 
-<a href="https://www.github.com/Marcocholla01">Follow me on Github</a>
+## <a href="https://www.github.com/Marcocholla01">Follow me on Github</a>
 
-# Some Basic Information about React app and Redux application
+## Some Basic Information about React app and Redux application
 
 # Getting Started with Create React App and Redux
 
